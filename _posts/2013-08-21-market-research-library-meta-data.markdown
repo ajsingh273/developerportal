@@ -1,11 +1,11 @@
 ---
-permalink: /docs/market-research-library.html
+permalink: "/docs/market-research-library.html"
 layout: template
 title: Market Research Abstracts API
-
+published: true
 ---
 
-#Market Research Abstracts API
+#Market Research Library
 The Market Research Abstracts API provides metadata for country and industry reports produced by ITA’s trade experts, and available in ITA’s online market research library.  Categorized by country and industry, these reports include:
 
 * Market Research Reports
@@ -61,4 +61,4 @@ Example:
 <td>URL for the report</td>
 <td></td>
 </tr>
-</table> 
+</table>
